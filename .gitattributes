@@ -1,0 +1,7 @@
+README.md filter=lfs diff=lfs merge=lfs -text
+relationship_classes.txt filter=lfs diff=lfs merge=lfs -text
+frame_list.txt filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+object_bbox_and_relationship.pkl filter=lfs diff=lfs merge=lfs -text
+object_classes.txt filter=lfs diff=lfs merge=lfs -text
+person_bbox.pkl filter=lfs diff=lfs merge=lfs -text
